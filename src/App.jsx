@@ -23,7 +23,7 @@ function App() {
             </div>
           </div>
         </header>
-        <div className="coming-soon">Coming soon</div>
+        <div className="coming-soon">🚧 Page is Under Construction 🚧</div>
 
         <section className="service">
           <p className="service-lead">
