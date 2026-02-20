@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Sora:wght@300;400;500;600;700&family=Unbounded:wght@400;500;600&display=swap");
+
+:root {
+  color-scheme: light;
+  font-family: "Sora", sans-serif;
+  line-height: 1.6;
+  font-weight: 400;
+  background-color: #f6f9fb;
+  color: #0c1b2a;
+
+  --ink: #0c1b2a;
+  --muted: #5b6b7b;
+  --brand: #1f5fbf;
+  --accent: #3ac9d2;
+  --display-font: "Unbounded", "Sora", sans-serif;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: #eef3f6;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+a {
+  color: inherit;
+}
+
+button {
+  font-family: inherit;
+}
